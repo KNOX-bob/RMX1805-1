@@ -4,4 +4,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     aosp_RMX1805-user \
     aosp_RMX1805-userdebug \
-    aosp_RMX1805-eng
+    
